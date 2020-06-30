@@ -8,8 +8,8 @@ plugins:
   - serverless-aws-documentation
   # - serverless-plugin-canary-deployments
 
-# package:
-#   individually: true
+package:
+  individually: true
 
 provider:
   name: aws
